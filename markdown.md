@@ -14,7 +14,7 @@
 *Tercero
 
 [tittle](https://fp.josedomingo.org/iaw/1_introduccion/ejercicio2.html)
-!alt text] (fondo.jpg)
+![alt text] (fondo.jpg)
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
